@@ -10,9 +10,9 @@ Demo https://warbler-rithm-15.herokuapp.com/
     •Bcrypt
     •Jinja
     
- ## Features
-  1)Login/Logout
-  2)Liking/Disliking
-  3)Following/Unfollowing
-  4)Twitting Messages
+## Features
+1)Login/Logout
+2)Liking/Disliking
+3)Following/Unfollowing
+4)Twitting Messages
 
